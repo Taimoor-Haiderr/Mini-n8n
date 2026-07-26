@@ -1,6 +1,6 @@
 #  n8n Mini – Learn n8n Easily
 
-An interactive AI-powered educational platform that helps beginners learn **n8n** through simple explanations, practical examples, workflow templates, quizzes, and an intelligent AI Mentor—all in one place.
+An interactive AI-powered educational platform that helps beginners learn **n8n** through simple explanations, practical examples, workflow templates, and an intelligent AI Mentor—all in one place.
 
 **Learn n8n without switching between documentation, YouTube videos, and multiple websites.**
 

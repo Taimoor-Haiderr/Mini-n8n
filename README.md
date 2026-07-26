@@ -9,7 +9,7 @@ An interactive AI-powered educational platform that helps beginners learn **n8n*
 # 🌐 Live Demo
 
 **Live Application:**
-https://mini-n8n-7o3yndao9-taimoor-haiderrs-projects.vercel.app
+https://mini-n8n-tau.vercel.app
 
 ---
 
